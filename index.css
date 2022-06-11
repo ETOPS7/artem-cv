@@ -49,7 +49,7 @@ h3 {
 }
 .hero__title {
   margin-bottom: 20px;
-  font-size: 48px;
+  font-size: 40px;
   line-height: 1.1;
 }
 
@@ -143,4 +143,3 @@ h3 {
 .dev_tool_postgres:hover {
   color: cadetblue;
 }
-
